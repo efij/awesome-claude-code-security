@@ -8,7 +8,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Last Commit](https://img.shields.io/github/last-commit/anthropics/claude-code.svg?label=upstream%20activity)](https://github.com/anthropics/claude-code)
 
-**A curated collection of security resources, hardening tools, threat research, and governance frameworks for [Claude Code](https://code.claude.com) and the AI coding agent ecosystem.**
+**An awesome curated collection of security resources, hardening tools, threat research, and governance frameworks for [Claude Code](https://code.claude.com) and the AI coding agent ecosystem.**
 
 *For security engineers, AppSec teams, platform engineers, and anyone deploying Claude Code in production.*
 
