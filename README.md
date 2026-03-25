@@ -75,6 +75,7 @@
 *Configs, frameworks, and guides for locking down Claude Code.*
 
 - [Trail of Bits claude-code-config](https://github.com/trailofbits/claude-code-config) - Opinionated production defaults from a top security firm: sandboxing, permissions, hooks, skills, MCP server configs. The gold standard for secure setups.
+- [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual scope audit for ~/.claude/ configs. Detects cross-scope contamination where memories, skills, or MCP entries leak between projects, reducing unintended context exposure and stale permission inheritance.
 - [claude-code-security](https://github.com/marc-shade/claude-code-security) - Progressive hardening framework covering agent config protection, hooks, runtime security, injection prevention, and supply chain controls.
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Performance optimization system with security components: skills, instincts, memory, and research-first development patterns.
 - [Claude Code Ultimate Guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - Comprehensive documentation with production-ready templates including security hardening configs.
