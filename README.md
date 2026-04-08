@@ -101,6 +101,7 @@
 ## 🪝 Hooks and Guardrails
 
 *Hook systems and runtime enforcement for Claude Code.*
+- [Blue Collar Governance Plugin](https://github.com/TDE6541/blue-collar-governance-plugin) - A Claude Code governance plugin with deterministic local hook enforcement, 31 operator-facing skills, 11 lifecycle events, and 375 passing golden tests.
 
 - [claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - Plugin intercepting destructive git/filesystem commands before execution. Semantic argument parsing distinguishes safe from dangerous operations.
 - [Lasso claude-hooks](https://github.com/lasso-security/claude-hooks) - Prompt injection defense hooks: scans files, web fetches, and command output in real-time. Detects 50+ injection patterns in READMEs, HTML comments, and docs.
