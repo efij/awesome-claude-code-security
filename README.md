@@ -257,6 +257,8 @@
 ## 🛠️ Security Tools and Scanners
 
 *Tools for auditing, scanning, and testing Claude Code and its ecosystem.*
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin (MIT) providing 9 SEO and Google Ads skills — connects Google Search Console, PageSpeed Insights, and Google Ads API for automated SEO audits, keyword research, and content optimization directly from Claude Code.
+
 
 ### Claude Code Specific
 
