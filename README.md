@@ -109,6 +109,7 @@
 - [claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) - Real-time monitoring for multi-agent Claude Code sessions via hook event tracking.
 - [claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows.
 - [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NVIDIA's toolkit for programmable LLM guardrails with Colang language for dialog flow control. ~4.5k stars.
+- [Swanlake](https://github.com/confirmxxx/Swanlake) - Defense-in-depth primitives for Claude Code and agentic apps: zero-trust surface beacons with per-surface canary attribution, trust-zone MCP scoping, reflex-purity AST lint, hardened research-dispatch discipline. Apache 2.0.
 
 ## 🔌 MCP Security
 
