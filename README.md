@@ -103,6 +103,7 @@
 *Hook systems and runtime enforcement for Claude Code.*
 
 - [claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - Plugin intercepting destructive git/filesystem commands before execution. Semantic argument parsing distinguishes safe from dangerous operations.
+- [ThumbGate](https://github.com/IgorGanapolsky/ThumbGate) - Local-first PreToolUse firewall for AI coding agents (Claude Code, Cursor, Codex, Gemini). Blocks destructive shell, secret writes, and off-scope edits at the tool-call boundary before execution; thumbs-down feedback auto-promotes to persistent prevention rules enforced in later sessions. Deterministic gate engine, MIT. Sends anonymous CLI telemetry by default (opt-out: `THUMBGATE_NO_TELEMETRY=1`).
 - [Lasso claude-hooks](https://github.com/lasso-security/claude-hooks) - Prompt injection defense hooks: scans files, web fetches, and command output in real-time. Detects 50+ injection patterns in READMEs, HTML comments, and docs.
 - [claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Advanced hook patterns and techniques for Claude Code security automation.
 - [claudekit](https://github.com/carlrannaberg/claudekit) - Toolkit of custom commands, hooks, and security utilities for Claude Code.
