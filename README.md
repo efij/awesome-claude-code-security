@@ -244,6 +244,7 @@
 - [OWASP Top 10 for Agentic Applications](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/) - 2026 standard: agent goal hijacking, tool misuse, identity abuse, delegation risks.
 - [NVIDIA Safety for Agentic AI](https://github.com/NVIDIA-AI-Blueprints/safety-for-agentic-ai) - Build/deploy/run safety patterns for agentic architectures.
 - [Fortune: AI's Triple Act at Black Hat/DEF CON](https://fortune.com/2026/08/12/hacker-bodyguard-target-ais-triple-act-at-the-years-biggest-security-showdowns/) - Coverage of agent-to-agent interaction risks and shadow AI attack surfaces.
+- [Trent AI](https://trent.ai/) - Specialized security agents in continuous loop that assess agentic systems against a repository threat model and track posture over time.
 
 ## 🖥️ OS and Endpoint Hardening
 
@@ -339,6 +340,7 @@
 - [CSO Online: Industry Wakeup Call](https://www.csoonline.com/article/4136294/anthropics-claude-code-security-rollout-is-an-industry-wakeup-call.html) - Why Claude Code Security changes the AppSec landscape.
 - [DataDome: MCP Prompt Injection Prevention](https://datadome.co/agent-trust-management/mcp-security-prompt-injection-prevention/) - Practical guide to stopping prompt injection in MCP deployments.
 - [Lares: OWASP Agentic Top 10 in the Wild](https://labs.lares.com/owasp-agentic-top-10/) - Real-world threat examples mapped to OWASP Agentic categories.
+- [Claude Code, Codex, Semgrep, CodeQL & Trent vs 28 CWE-Bench CVEs](https://trent.ai/blog/claude-code-codex-semgrep-codeql-trent-vs-cwe-bench-cve/) - Benchmark of five tools on 28 production CVEs across 22 repositories (XSS, path traversal, code/OS-command injection). Claude Code (Opus 4.7) surfaced the right vulnerability class 65% of the time but localized it to the patched file only 8.7% of the time.
 
 ## 🔄 Competitor and Adjacent Controls
 
