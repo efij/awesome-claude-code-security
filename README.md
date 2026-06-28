@@ -133,6 +133,7 @@
 - [Lasso MCP Gateway](https://github.com/lasso-security/mcp-gateway) - Plugin-based gateway that intercepts and sanitizes sensitive information across MCP orchestration.
 - [IBM ContextForge](https://ibm.github.io/mcp-context-forge/) - Open-source registry and proxy federating MCP/A2A/REST APIs with centralized governance and discovery.
 - [awesome-mcp-gateways](https://github.com/e2b-dev/awesome-mcp-gateways) - Curated list of MCP gateway products and solutions.
+- [ScopeBlind protect-mcp](https://github.com/scopeblind/scopeblind-gateway) - Fail-closed Cedar policy gate for Claude Code hooks and MCP. Denies on any policy evaluation error, signs an Ed25519 receipt of every decision (verifiable offline), and refuses to arm enforcement unless a boot self-test proves a forbidden action is denied.
 
 ### Standards and Checklists
 
