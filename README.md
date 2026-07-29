@@ -162,6 +162,7 @@
 
 ### Tools and Frameworks
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 - [promptfoo](https://github.com/promptfoo/promptfoo) - CLI for red-teaming LLM apps. Adaptive attack generation, CI/CD integration. Used by Shopify, Discord, Microsoft. ~6k stars.
 - [Garak](https://github.com/NVIDIA/garak) - NVIDIA-backed red-teaming toolkit: 37+ probe modules for injection, jailbreaks, encoding bypasses, data extraction. Apache 2.0.
 - [PyRIT (Microsoft)](https://github.com/Azure/PyRIT) - Python Risk Identification Tool for generative AI. Enterprise red-teaming framework for Azure environments.
