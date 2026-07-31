@@ -210,6 +210,7 @@
 - [IBM + Anthropic Enterprise Partnership](https://newsroom.ibm.com/2025-10-07-2025-ibm-and-anthropic-partner-to-advance-enterprise-software-development-with-proven-security-and-governance) - Enterprise governance integration with IBM security and compliance capabilities.
 - [NVIDIA Safety for Agentic AI](https://github.com/NVIDIA-AI-Blueprints/safety-for-agentic-ai) - Blueprint for improving safety, security, and privacy at build, deploy, and run stages.
 - [Claude Enterprise Deployment Guide](https://www.datastudios.org/post/claude-enterprise-security-configurations-and-deployment-controls-explained) - Enterprise security configurations and deployment controls explained.
+- [Valqore](https://github.com/valqore/valqore) - Deterministic, self-hosted governance gate for AI coding/infra agents (Cursor, Claude Code) over MCP: blocks unsafe IaC / Terraform / kubectl / tool actions *before* they run, with a signed, tamper-evident audit journal and auditor-ready NIST OSCAL evidence. Air-gap capable; rules map to the OWASP MCP + Agentic Top 10.
 
 ## ⚙️ Secure CI/CD and Automation
 
