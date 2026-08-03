@@ -264,7 +264,7 @@
 - [Snyk agent-scan](https://github.com/snyk/agent-scan) - Professional scanner: AI agents, MCP servers, skills. Auto-discovers and validates across 15+ risk categories.
 - [Trail of Bits Skills](https://github.com/trailofbits/skills) - Claude Code skills for security research, vulnerability detection, and audit workflows.
 - [Claude Code Security Auditor](https://github.com/danielrosehill/Claude-Code-Security-Auditor) - Pattern for device-level security audits using Claude Code.
-- [cc-doctor](https://github.com/Hiro-012/claude-) - CLI that scans Claude Code projects for risky Bash permission grants, broken hooks, and hardcoded secrets in config files. Runs via npx in CI pipelines.
+- [cc-doctor](https://github.com/Hiro-012/cc-doctor) - CLI that scans Claude Code projects for risky Bash permission grants, broken hooks, and hardcoded secrets in config files. Runs via npx in CI pipelines.
 
 ### MCP Scanners
 
