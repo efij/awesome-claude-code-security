@@ -124,6 +124,7 @@
 - [SecureMCP](https://github.com/makalin/SecureMCP) - Audit MCP for OAuth leaks, prompt injection, rogue servers, and tool poisoning.
 - [mcpserver-audit](https://github.com/ModelContextProtocol-Security/mcpserver-audit) - Pre-use safety examination tool with vulnerability database.
 - [MCP Security Audit (npm)](https://github.com/qianniuspace/mcp-security-audit) - Audits npm dependencies in MCP servers for known vulnerabilities via registry.
+- [mcp-scan (npm)](https://github.com/Abanoub-Rodolf/mcp-scan) - Node CLI that audits Claude Desktop and Claude Code configs, plus 15 other AI tool clients, for exposed secrets, prompt injection, supply-chain and permission risks. 16 scanners, SARIF output. Not the Invariant Labs project of the same name listed above.
 
 ### Gateways and Proxies
 
