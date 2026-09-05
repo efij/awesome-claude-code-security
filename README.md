@@ -102,6 +102,7 @@
 
 *Hook systems and runtime enforcement for Claude Code.*
 
+- [Agent Gorgon](https://github.com/hermes-labs-ai/agent-gorgon) - Audit-only user-space observer for running agent process trees; records policy verdicts before active signals, with an installed reproducible demo.
 - [claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - Plugin intercepting destructive git/filesystem commands before execution. Semantic argument parsing distinguishes safe from dangerous operations.
 - [Lasso claude-hooks](https://github.com/lasso-security/claude-hooks) - Prompt injection defense hooks: scans files, web fetches, and command output in real-time. Detects 50+ injection patterns in READMEs, HTML comments, and docs.
 - [claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Advanced hook patterns and techniques for Claude Code security automation.
