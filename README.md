@@ -207,6 +207,7 @@
 - [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - Zero-trust policy enforcement, identity management, execution sandboxing. Covers OWASP Agentic Top 10.
 - [GitHub Enterprise AI Controls](https://github.blog/changelog/2026-02-26-enterprise-ai-controls-agent-control-plane-now-generally-available/) - GA agent control plane: MCP allowlists, audit logs, RBAC, session monitoring for Copilot.
 - [GitHub AI Governance Framework](https://resources.github.com/learn/pathways/copilot/essentials/empower-developers-with-ai-policy-and-governance/) - Creating organizational AI policy and governance for coding assistants.
+- [Speakeasy AI Control Plane](https://www.speakeasy.com/product/ai-control-plane) - Commercial AI control plane for governing Claude Code and other agents with identity, policy enforcement, and searchable tool-call audit trails.
 - [IBM + Anthropic Enterprise Partnership](https://newsroom.ibm.com/2025-10-07-2025-ibm-and-anthropic-partner-to-advance-enterprise-software-development-with-proven-security-and-governance) - Enterprise governance integration with IBM security and compliance capabilities.
 - [NVIDIA Safety for Agentic AI](https://github.com/NVIDIA-AI-Blueprints/safety-for-agentic-ai) - Blueprint for improving safety, security, and privacy at build, deploy, and run stages.
 - [Claude Enterprise Deployment Guide](https://www.datastudios.org/post/claude-enterprise-security-configurations-and-deployment-controls-explained) - Enterprise security configurations and deployment controls explained.
