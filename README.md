@@ -287,6 +287,7 @@
 - [TruffleHog](https://github.com/trufflesecurity/trufflehog) - 800+ credential types with live verification. Scans Git, filesystems, cloud storage. ~18k stars.
 - [Gitleaks](https://github.com/gitleaks/gitleaks) - Regex + entropy secrets detection. Fast, accurate, minimal false positives. ~19k stars.
 - [ggshield (GitGuardian)](https://github.com/GitGuardian/ggshield) - 500+ secret types with pre-commit and CI integration.
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ## 🐛 Vulnerability Research and Disclosures
 
