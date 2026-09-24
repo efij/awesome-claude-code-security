@@ -176,6 +176,7 @@
 
 - [OWASP LLM01:2025 Prompt Injection](https://genai.owasp.org/llmrisk/llm01-prompt-injection/) - Canonical definition and threat model. The #1 risk in 73% of production AI deployments.
 - [DEF CON 33 / Black Hat 2025: AgentFlayer](https://www.csoonline.com/article/4037869/5-key-takeaways-from-black-hat-usa-2025.html) - Zenity research: 0-click attacks on enterprise AI assistants including Copilot and Gemini.
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Open, source-linked database of real-world AI agent security incidents, including coding-agent cases like Replit Agent's prod DB deletion, the poisoned Amazon Q extension, and Clinejection.
 
 ## 🔑 Secrets and Data Leakage
 
