@@ -189,6 +189,7 @@
 - [LLM Guard (Protect AI)](https://github.com/protectai/llm-guard) - Input/output security toolkit: PII detection, toxicity filtering, secrets scanning for LLM interactions. ~4k stars.
 - [ml-model-data-leak-layer](https://github.com/AashiqRamachandran/ml-model-data-leak-layer) - PII leak detection in LLM-generated content using ML and regex patterns.
 - [GitHub Secret Protection](https://github.blog/changelog/2025-03-04-introducing-github-secret-protection-and-github-code-security/) - Push protection with AI-powered detection. Enabled by default on public repos since 2024.
+- [shim-cli](https://github.com/GetSHIM/shim-cli) - Local Claude Code hooks that mask secrets and personal data in tool results before the model reads them, and report what was typed into prompts. Apache-2.0.
 
 ### Claude Code Specific
 
