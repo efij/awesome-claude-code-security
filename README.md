@@ -264,6 +264,7 @@
 - [Snyk agent-scan](https://github.com/snyk/agent-scan) - Professional scanner: AI agents, MCP servers, skills. Auto-discovers and validates across 15+ risk categories.
 - [Trail of Bits Skills](https://github.com/trailofbits/skills) - Claude Code skills for security research, vulnerability detection, and audit workflows.
 - [Claude Code Security Auditor](https://github.com/danielrosehill/Claude-Code-Security-Auditor) - Pattern for device-level security audits using Claude Code.
+- [RosmarOps](https://github.com/qtorb/rosmarops) - Local, read-only auditor for Windows (macOS preview) that sends nothing: what each AI coding agent can read and change, which keys it reaches, and which agents can rewrite others' configuration.
 
 ### MCP Scanners
 
