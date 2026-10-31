@@ -264,6 +264,7 @@
 - [Snyk agent-scan](https://github.com/snyk/agent-scan) - Professional scanner: AI agents, MCP servers, skills. Auto-discovers and validates across 15+ risk categories.
 - [Trail of Bits Skills](https://github.com/trailofbits/skills) - Claude Code skills for security research, vulnerability detection, and audit workflows.
 - [Claude Code Security Auditor](https://github.com/danielrosehill/Claude-Code-Security-Auditor) - Pattern for device-level security audits using Claude Code.
+- [coding-agent-audit](https://github.com/stackscribe-ai/coding-agent-audit) - Open-source CLI scanning for known IOCs from the Oct 2026 Open-VSX Claude Code extension trojan, plus risky hook/permission/MCP config heuristics. MIT, 41 tests.
 
 ### MCP Scanners
 
