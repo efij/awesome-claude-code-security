@@ -261,6 +261,7 @@
 ### Claude Code Specific
 
 - [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - Official Anthropic GitHub Action for AI-powered security review of PRs.
+- [EndoStack](https://github.com/requie/endostack) - Claude Code plugin that threat-models changes touching trust boundaries before building, security-reviews the final diff, and treats issue, web and log text as untrusted data.
 - [Snyk agent-scan](https://github.com/snyk/agent-scan) - Professional scanner: AI agents, MCP servers, skills. Auto-discovers and validates across 15+ risk categories.
 - [Trail of Bits Skills](https://github.com/trailofbits/skills) - Claude Code skills for security research, vulnerability detection, and audit workflows.
 - [Claude Code Security Auditor](https://github.com/danielrosehill/Claude-Code-Security-Auditor) - Pattern for device-level security audits using Claude Code.
