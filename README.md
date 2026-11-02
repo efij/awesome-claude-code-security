@@ -108,6 +108,7 @@
 - [claudekit](https://github.com/carlrannaberg/claudekit) - Toolkit of custom commands, hooks, and security utilities for Claude Code.
 - [claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) - Real-time monitoring for multi-agent Claude Code sessions via hook event tracking.
 - [claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows.
+- [HOL Guard](https://hol.org/guard) - Apache-2.0 runtime security for Claude Code and other coding agents, with local pre-tool policy checks, approvals, and MCP or plugin scanning.
 - [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NVIDIA's toolkit for programmable LLM guardrails with Colang language for dialog flow control. ~4.5k stars.
 
 ## 🔌 MCP Security
