@@ -261,6 +261,7 @@
 ### Claude Code Specific
 
 - [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - Official Anthropic GitHub Action for AI-powered security review of PRs.
+- [mcp-keyscan](https://github.com/aether-cell/mcp-keyscan) - Local, read-only, redacted scanner for API keys and database connection-string passwords in Claude Code permissions.allow (including "don't ask again"), MCP configs, logs, and shell history.
 - [Snyk agent-scan](https://github.com/snyk/agent-scan) - Professional scanner: AI agents, MCP servers, skills. Auto-discovers and validates across 15+ risk categories.
 - [Trail of Bits Skills](https://github.com/trailofbits/skills) - Claude Code skills for security research, vulnerability detection, and audit workflows.
 - [Claude Code Security Auditor](https://github.com/danielrosehill/Claude-Code-Security-Auditor) - Pattern for device-level security audits using Claude Code.
