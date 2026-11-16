@@ -108,6 +108,7 @@
 - [claudekit](https://github.com/carlrannaberg/claudekit) - Toolkit of custom commands, hooks, and security utilities for Claude Code.
 - [claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) - Real-time monitoring for multi-agent Claude Code sessions via hook event tracking.
 - [claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows.
+- [Marrow AI](https://getmarrow.ai/marrow-for-claude-code) - Commercial control layer with Claude Code hooks and an MCP server. With an account, it checks risky actions like a git push or deploy and keeps receipts without raw prompts.
 - [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NVIDIA's toolkit for programmable LLM guardrails with Colang language for dialog flow control. ~4.5k stars.
 
 ## 🔌 MCP Security
