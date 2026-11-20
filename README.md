@@ -186,6 +186,7 @@
 - [TruffleHog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials. 800+ secret types, live verification. Essential for pre-commit scanning in AI workflows. ~18k stars.
 - [Gitleaks](https://github.com/gitleaks/gitleaks) - Fast secrets scanner using regex and entropy. High precision, low false positives. ~19k stars.
 - [ggshield (GitGuardian)](https://github.com/GitGuardian/ggshield) - Detect 500+ secret types with advanced validation. Pre-commit hooks, CI integration, and real-time scanning.
+- [keysprawl](https://github.com/quzheng130/keysprawl) - Read-only, offline scan that lists every local copy of OpenAI, Anthropic and GitHub keys across Claude Code, Codex and OpenCode configs, .env and shell files, with masked output.
 - [LLM Guard (Protect AI)](https://github.com/protectai/llm-guard) - Input/output security toolkit: PII detection, toxicity filtering, secrets scanning for LLM interactions. ~4k stars.
 - [ml-model-data-leak-layer](https://github.com/AashiqRamachandran/ml-model-data-leak-layer) - PII leak detection in LLM-generated content using ML and regex patterns.
 - [GitHub Secret Protection](https://github.blog/changelog/2025-03-04-introducing-github-secret-protection-and-github-code-security/) - Push protection with AI-powered detection. Enabled by default on public repos since 2024.
