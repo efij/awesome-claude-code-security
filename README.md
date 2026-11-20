@@ -116,6 +116,7 @@
 
 ### Scanners and Auditors
 
+- [mcpguard](https://github.com/sidsri14/mcpguard) - Zero-dependency Node.js linter for MCP config JSON. Eight rules catch unpinned packages, embedded secrets, shell delegation, cleartext endpoints, and wildcard tool permissions; emits masked SARIF reports.
 - [Snyk agent-scan](https://github.com/snyk/agent-scan) - Professional security scanner for AI agents, MCP servers, and skills covering 15+ risk categories.
 - [mcp-scan (Invariant Labs)](https://github.com/invariantlabs-ai/mcp-scan) - MCP security scanner with proxy mode for real-time scanning without infrastructure changes.
 - [Cisco MCP Scanner](https://github.com/cisco-ai-defense/mcp-scanner) - Cisco's scanner for detecting threats and security findings in MCP servers.
