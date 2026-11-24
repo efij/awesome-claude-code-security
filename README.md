@@ -108,6 +108,7 @@
 - [claudekit](https://github.com/carlrannaberg/claudekit) - Toolkit of custom commands, hooks, and security utilities for Claude Code.
 - [claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) - Real-time monitoring for multi-agent Claude Code sessions via hook event tracking.
 - [claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows.
+- [Isonapse](https://www.isonapse.com) - Local policy gate for Claude Code tool calls. Learns normal activity, then allows, asks or blocks actions before execution, with signed records verifiable offline. Proprietary public beta.
 - [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NVIDIA's toolkit for programmable LLM guardrails with Colang language for dialog flow control. ~4.5k stars.
 
 ## 🔌 MCP Security
