@@ -109,6 +109,7 @@
 - [claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) - Real-time monitoring for multi-agent Claude Code sessions via hook event tracking.
 - [claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows.
 - [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NVIDIA's toolkit for programmable LLM guardrails with Colang language for dialog flow control. ~4.5k stars.
+- [whoami-guard](https://github.com/ChrystianSchutz/whoami-guard) - PreToolUse hook that blocks Claude Code from sending the user's own e-mail and name to outside services, including encoded forms. Standard library only, sub-millisecond scans.
 
 ## 🔌 MCP Security
 
